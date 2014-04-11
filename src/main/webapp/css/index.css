@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+
+.circle {
+    width: 15px;
+    height: 15px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px; 
+}
+
+.circle-green {
+	background : #00FF00;
+}
+
+.circle-red {
+	background : #FF0000;
+}

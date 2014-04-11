@@ -1,0 +1,13 @@
+CACHE MANIFEST
+# version 11
+CACHE:
+index.html
+js/vendor/jquery-2.1.0.min.js
+js/vendor/angular-1.2.15.min.js
+js/vendor/angular-local-storage.js
+js/vendor/bootstrap-3.1.1.min.js
+js/index.js
+css/vendor/bootstrap-3.1.1.min.css
+css/index.css
+NETWORK:
+*
